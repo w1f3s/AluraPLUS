@@ -1,4 +1,5 @@
 :root {
+     /*Amanda Bispo 3D 24/09/2024*/
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -19,7 +20,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+ /*Amanda Bispo 3D 24/09/2024*/
 .principal {
     background-image: url("Background.png");
     background-repeat: no-repeat;
@@ -48,7 +49,7 @@ body {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
-
+ /*Amanda Bispo 3D 24/09/2024*/
 .container__aviso {
     font-size: 12px;
     color: var(--cinza-secundario);
@@ -95,7 +96,7 @@ body {
 .container__descricao {
     padding: 2em;
 }
-
+ /*Amanda Bispo 3D 24/09/2024*/
 .dispositivos__lista {
     display: flex;
     justify-content: center;
@@ -144,7 +145,7 @@ body {
 .lista__link a:hover {
     color: var(--botao-azul);
 }
-
+ /*Amanda Bispo 3D 24/09/2024*/
 .lista__link a:active {
     color: purple;
 }
